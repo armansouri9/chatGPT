@@ -1,5 +1,3 @@
-# chatGPT
-Communication with chatGPT with Python
 # GPT-3 Chatbot
 
 This repository contains code for a chatbot powered by OpenAI's GPT-3.5 model. The chatbot utilizes the capabilities of GPT-3.5 to provide interactive and intelligent responses to user input.
