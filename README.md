@@ -52,3 +52,8 @@ Feel free to explore and modify the code to customize the chatbot's behavior bas
 ## Note
 
 Please note that the code provided is a simplified example and may require additional modifications and enhancements to fit your specific use case.
+
+
+## License
+
+This project is licensed under a Free License.
